@@ -1,0 +1,75 @@
+{
+    "data":[
+        {
+            "type": "Appetizers",
+            "name":"crackers",
+            "incredients": ["Cheese", "Crackers", "Sauce"],
+            "description":"A cracker topped with cheese and sauce."
+        }
+        ,
+        {
+            "type":"Appetizers",
+            "name":"salad",
+            "incredients":["lettuce", "bacon", "croutons", "cheese"],
+            "description":"Tasty fresh salad."
+        }
+        ,
+        {
+            "type":"Cold Sandwhiches",
+            "name":"Turkey sandwich",
+            "incredients":["Bread", "cheese", "turkey", "lettuce"],
+            "description":"Tasty bread filled with cheese,turkey and bacon."
+        }
+        ,
+        {
+            "type": "Cold Sandwiches",
+            "name":"Ham sandwhich",
+            "incredients":["Bread", "Cheese", "Ham"],
+            "description":"A sandwhich with ham and cheese."
+        }
+        ,
+        {
+            "type":"Hot Sandwhiches",
+            "name":"Buffalo chicken",
+            "incredients":["Chicken", "Cheese", "Buffalo Sauce"],
+            "description":"Tasty bufffalo chicken sandwhich."
+        }
+        ,
+        {
+            "type":"Hot Sandwhiches",
+            "name":"Meatball sandwhich",
+            "incredients":["Bread", "Meatballs", "Marinara sauce"],
+            "description":"A sandwhich with meatballs and marinara sauce."
+        }
+        ,
+        {
+            "type":"Desserts",
+            "name":"Chocolate chip cookies",
+            "incredients":["Cookies", "Chocolate chips"],
+            "description":"Tasty fresh cookies."
+
+        }
+        ,
+        {
+            "type":"Desserts",
+            "name":"Strawberry cheesecake",
+            "incredients":["Strawberries", "Cake", "Whipped cream"],
+            "description":"Delicious Strawberry cheesecake"
+        }
+        ,
+        {
+            "type":"Drinks",
+            "name":"Hot chocolate",
+            "incredients":["Chocolate", "milk"],
+            "description":"Hot and delicious hot chocolate"
+
+        }
+        ,
+        {
+            "type":"Drinks",
+            "name": "Coffe",
+            "incredients":["water", "coffee", "sugar"],
+            "description":"Delicious hot coffee"
+        }
+    ]
+}
