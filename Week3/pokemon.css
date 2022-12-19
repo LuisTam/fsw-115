@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+li{
+    text-align: center;
+    list-style: none;
+    font-weight: bolder;
+    font-size: x-large;
+    border: 1px solid black;
+    margin: 15px;
+    padding: 5px;
+    background-color: lightcoral;
+    color: yellow;
+}
