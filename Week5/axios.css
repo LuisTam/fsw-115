@@ -1,0 +1,25 @@
+body{
+    background-color: aqua;
+}
+form{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+#listContainer{
+text-align: center;
+
+}
+p{
+    font-size: x-large;
+    list-style: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 50px;
+}
+li{
+    font-size: medium;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
