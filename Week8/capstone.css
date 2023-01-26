@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right:auto ;
+    width: 70%;
+    border-radius: 50%;
+}
+
+h1{
+    margin: 50px;
+    color: limegreen;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif,;
+}
+h1:hover{
+    color: lightskyblue;
+}
+p{
+    color: lightskyblue;
+    font-size: x-large;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration:underline
+}
+p:hover{
+color: limegreen;
+text-decoration: none;
+}
+button{
+    margin: auto;
+    color: lightblue;
+    background-color: black;
+}
+button:hover{
+    background-color: lightblue;
+    color: black;
+}
+form{
+    opacity: .1;
+    margin-top: 40px;
+}
+form:hover{
+    opacity: 1;
+}
+#addBtn:hover{
+    background-color: limegreen;
+    color: black;
+}
+li{
+    list-style:none;
+}
